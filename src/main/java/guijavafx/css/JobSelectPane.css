@@ -1,0 +1,35 @@
+#root {
+    -fx-padding: 25;
+}
+
+#txtTitleText {
+    -fx-font-size: 128px;
+    -fx-font-family: "Karumbi";
+    -fx-fill: #818181;
+    -fx-effect: innershadow( three-pass-box , rgba(0,0,0,0.7) , 6, 0.0, 0, 2 );
+}
+
+#lblNewPagesLabel {
+    -fx-font-size: 24px;
+    -fx-font-family: "Tahoma";
+}
+
+#lblNewAdsLabel {
+    -fx-font-size: 24px;
+    -fx-font-family: "Tahoma";
+}
+
+#btnCutAdsButton {
+    -fx-font-size: 48px;
+    -fx-font-family: "Karumbi";
+}
+
+#btnEnterAdsButton {
+    -fx-font-size: 24px;
+    -fx-font-family: "TlwgTypewriter";
+}
+
+#btnEditAdsButton {
+    -fx-font-size: 32px;
+    -fx-font-family: "Uroob";
+}
